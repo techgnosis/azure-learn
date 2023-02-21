@@ -1,0 +1,1 @@
+This repo contains scripts I wrote when learning how to authenticate properly with Azure from your machine. It does not cover managed identities.

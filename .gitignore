@@ -2,3 +2,7 @@
 cert.pem
 key.pem
 combined.pem
+client.pfx
+
+.terraform
+.terraform.lock.hcl
